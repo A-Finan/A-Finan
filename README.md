@@ -11,11 +11,11 @@
 #### Languages & Tools Used:
 
 <p align="left">
-<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg">
-<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg">
-<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg">
-<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg">
-<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg">
+<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg">
+<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg">
+<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg">
+<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg">
+<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg">
 </p>
 
 ---

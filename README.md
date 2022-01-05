@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ### Languages & Tools Used
 
-![Python](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png) ![NodeJS](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png)
+<p float="left">
+  <img src="(https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png) ![NodeJS](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 - NodeJS
 - HTML

@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Languages & Tools Used
 
-- Python ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fdownloads%2F&psig=AOvVaw0MvoSVAEiU1WwJVmsMCsoS&ust=1641464923184000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiflsGzmvUCFQAAAAAdAAAAABAD)
+![Python](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 - NodeJS
 - HTML
 - CSS

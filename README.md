@@ -8,17 +8,15 @@
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: {!False} It's funny because it's true
 
+#### Languages & Tools Used:
 
-### Languages & Tools Used
-
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg"/>  
-
-<br />
-<br />
+<p align="left">
+<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg">
+<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg">
+<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg">
+<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg">
+<img width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg">
+</p>
 
 ---
 

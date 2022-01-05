@@ -11,11 +11,11 @@
 
 ### Languages & Tools Used
 
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.png"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.png"/>
-<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.png"/>  
+<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg"/>
+<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg"/>
+<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg"/>
+<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg"/>
+<img align="left" width="75px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg"/>  
 
 <br />
 <br />

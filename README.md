@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages & Tools Used
 
-![Python](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Python](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png)
 
 - NodeJS
 - HTML
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - VSCode
 - Git
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Finan&count_private=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Finan&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 

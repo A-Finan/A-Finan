@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages & Tools Used
 
-![Python](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png)
+![Python](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png) ![NodeJS](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png)
 
 - NodeJS
 - HTML

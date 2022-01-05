@@ -1,19 +1,13 @@
-### Welcome 👋
+# Welcome, I'm Alex 👋
 
-<!--
-**A-Finan/A-Finan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Website](https://img.shields.io/website?down_color=Red&down_message=Offline&label=My%20Github&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fgithub.com%2FA-Finan%2FA-Finan)
 
-Here are some ideas to get you started:
+## I'm a Husband, Father, Part-Time Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a NodeJS Project
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: {!False} It's funny because it's true
+
 
 ### Languages & Tools Used
 

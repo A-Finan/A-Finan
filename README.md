@@ -14,7 +14,7 @@
 <p float="left">
   <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png" width="100" /> 
   <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png" width="100" /> 
-  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.png" width="100" />
   <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.png" width="100" />
   <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.png" width="100" />
 </p>

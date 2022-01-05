@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages Used
+### Languages & Tools Used
 
+- Python
+- NodeJS
+- HTML
+- CSS
+- GitHub
+- VSCode
+- Git
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Finan&count_private=true&show_icons=true&theme=dracula)
 

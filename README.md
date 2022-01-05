@@ -18,17 +18,12 @@ Here are some ideas to get you started:
 ### Languages & Tools Used
 
 <p float="left">
-  <img src="(https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png) ![NodeJS](https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.png" width="100" /> 
   <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/GitHub.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.png" width="100" />
+  <img src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.png" width="100" />
 </p>
-
-- NodeJS
-- HTML
-- CSS
-- GitHub
-- VSCode
-- Git
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Finan&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 

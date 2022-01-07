@@ -11,11 +11,13 @@
 #### Languages & Tools Used:
 
 <p align="left">
-<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Python.svg">
-<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/NodeJS.svg">
+<img width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/github1.svg">
 <img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/VSCode.svg">
-<img width="60px" src="https://github.com/A-Finan/A-Finan/blob/main/Github%20Images/Git.svg">
+<img width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </p>
 
 ---
